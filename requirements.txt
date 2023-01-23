@@ -15,4 +15,3 @@ altair
 wordcloud
 streamlit_lottie
 scipy
-operator
